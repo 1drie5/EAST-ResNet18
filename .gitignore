@@ -1,0 +1,10 @@
+# Ignore dataset folders
+archive/
+
+# Ignore PyTorch checkpoints
+*.pth
+*.pt
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
